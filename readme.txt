@@ -1,1 +1,2 @@
 Learngit.
+Git is useful.
